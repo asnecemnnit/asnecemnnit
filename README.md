@@ -12,7 +12,7 @@ I am pursuing M.Sc. in Information Technology with a specialization in Embedded 
 
 ## Projects 🚀
 
-Here are a few projects I've been working on:
+Here are a few projects I've worked on:
 
 - **[Billiards Motion Prediction](https://github.com/asnecemnnit/fapra_ai_public):** Predicting motion of billiard balls using neural network models (Universität Stuttgart).
 - **[AI or Not](https://github.com/asnecemnnit/huggingface_competitions_aiornot):** In this competition, my task was to build a neural network model that can identify AI-generated images.
