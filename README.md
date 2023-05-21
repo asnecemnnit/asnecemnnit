@@ -1,4 +1,4 @@
-# Hi there, I'm Ashish Singh Negi! 👋
+# Hello World! I am Ashish Singh Negi! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/asnecemnnit)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/asnecemnnit)
