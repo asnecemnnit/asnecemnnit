@@ -35,7 +35,7 @@ I love sharing my knowledge and experiences through blog posts. Check out some o
 - **[Blog Post 2](https://your-blog.com/post-2):** Description of the blog post.
 
 Feel free to visit my blog to explore more insightful content! -->
-Coming Soon...
+- [Could Artificial General Intelligence (AGI) solve/violate “no free lunch theorem”?](https://medium.com/@asnecemnnit/could-artificial-general-intelligence-agi-solve-violate-no-free-lunch-theorem-9d77c447d695)
 
 ## Get in Touch 📬
 
