@@ -27,7 +27,7 @@ I believe in the power of open-source collaboration and have made contributions 
 - **[Contributed Project 1](https://github.com/organization/project-1):** Description of your contribution.
 - **[Contributed Project 2](https://github.com/organization/project-2):** Description of your contribution. -->
 
-## Blog 📝
+## Blogs 📝
 <!-- 
 I love sharing my knowledge and experiences through blog posts. Check out some of my recent articles:
 
