@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Engineer with a strong evolving i
 
 ## About Me 🧑‍💻
 
-M.Sc. candidate in Information Technology, specializing in Embedded Systems and Artificial Intelligence. Over three years of experience in the Automotive Industry as a Software Developer, supplemented by an internship in Embedded-AI. Currently developing low-light vehicle detection systems using Computer Vision and Deep Learning for my master's thesis. Skilled in applying critical thinking to real-world challenges. Eager to develop and deploy AI-based solutions in the automotive or medical industry.
+M.Sc. candidate in Information Technology, specializing in Embedded Systems and Artificial Intelligence. Over three years of experience in the Automotive Industry as a Software Developer, supplemented by an internship in Embedded-AI. Recently worked on developing low-light vehicle detection systems using Computer Vision and Deep Learning for my master's thesis. Skilled in applying critical thinking to real-world challenges. Eager to develop and deploy AI-based solutions in the automotive or medical industry.
 
 ## Projects 🚀
 
