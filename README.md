@@ -12,7 +12,7 @@ M.Sc. graduate in Information Technology, with specialization in Embedded System
 
 ## Projects 🚀
 
-Here are a few projects I've worked on:
+Here are a few projects (and competitions) I've been involved in:
 
 - **[Billiards Motion Prediction](https://github.com/asnecemnnit/fapra_ai_public):** Predicting motion of billiard balls using neural network models (Universität Stuttgart).
 - **[AI or Not](https://github.com/asnecemnnit/huggingface_competitions_aiornot):** In this competition, my task was to build a neural network model that can identify AI-generated images.
