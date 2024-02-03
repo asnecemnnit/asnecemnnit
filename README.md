@@ -45,5 +45,5 @@ Let's connect! Feel free to reach out to me through the following channels:
 - Twitter: [@asnecemnnit](https://twitter.com/asnecemnnit)
 - Email: asnecemnnit@gmail.com
 
-I'm always open to interesting discussions, collaboration opportunities, and exciting projects.
+I'm always open to exciting projects, interesting discussions and exchanging ideas.
 
