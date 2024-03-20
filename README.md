@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Engineer with a strong evolving i
 
 ## About Me 🧑‍💻
 
-Currently working as a Deep Learning Engineer at SiMa.ai.
+Currently working as a Deep Learning Engineer at **[SiMa.ai](https://sima.ai/)**.
 
 **Background:**
 
