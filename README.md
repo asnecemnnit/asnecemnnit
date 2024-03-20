@@ -8,7 +8,11 @@ Welcome to my GitHub profile! I'm a passionate Engineer with a strong evolving i
 
 ## About Me 🧑‍💻
 
-M.Sc. graduate in Information Technology, with specialization in Embedded Systems and Artificial Intelligence. Over three years of experience in the Automotive Industry as a Software Developer, supplemented by an internship in Embedded-AI. Recently worked on developing low-light vehicle detection systems using Computer Vision and Deep Learning for my master's thesis. Skilled in applying critical thinking to real-world challenges. Eager to develop and deploy AI-based solutions in the automotive or medical industry.
+Currently working as a Deep Learning Engineer at SiMa.ai.
+
+**Background:**
+
+M.Sc. graduate in Information Technology, with specialization in Embedded Systems and Artificial Intelligence. Over three years of experience in the Automotive Industry as a Software Developer, and an internship in Embedded-AI. For my masters thesis, I worked on the development of nighttime vehicle detection methods using Computer Vision and Deep Learning. Skilled in applying critical thinking to real-world challenges. 
 
 ## Projects 🚀
 
